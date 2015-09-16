@@ -10,10 +10,12 @@ Original file is at https://github.com/eHealth4everyone/openhds/raw/master/war/o
 
 Important notes:
 Username/password is data/data
+
 Points to mysql at localhost:3306
 
 
 Default database.properties:
+
 dbDriver=com.mysql.jdbc.Driver
 hibernateExport=update
 dbUser=data
