@@ -4,11 +4,14 @@
 Below are release files friendly to winwods users
 
 [Download war](https://github.com/eHealth4everyone/openhds/raw/master/war/openhds.war)
-File is at https://github.com/eHealth4everyone/openhds/raw/master/war/openhds.war
+
+Original file is at https://github.com/eHealth4everyone/openhds/raw/master/war/openhds.war
+
 
 Important notes:
 Username/password is data/data
 Points to mysql at localhost:3306
+
 
 Default database.properties:
 dbDriver=com.mysql.jdbc.Driver
