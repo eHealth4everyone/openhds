@@ -1,13 +1,12 @@
 # openhds
 ## Openhds with a windows bias
 
-Below are release files friendly to winwods users
+Below are release files friendly to windows users
 
 [Download openhds.war](https://github.com/eHealth4everyone/openhds/raw/master/war/openhds.war)
 
 [Download openhds-required-data.sql] (https://raw.githubusercontent.com/eHealth4everyone/openhds/master/war/openhds-required-data.sql)
 
-Original file is at https://github.com/eHealth4everyone/openhds/raw/master/war/openhds.war
 
 
 Important notes:
